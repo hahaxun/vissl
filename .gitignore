@@ -4,6 +4,9 @@
 __pycache__/
 *.py[cod]
 
+# editor
+*.swp
+
 # C extensions
 *.so
 
@@ -71,6 +74,9 @@ target/
 
 # PyCharm IDE
 .idea/
+
+# VScode iDE
+.vscode/
 
 # Docusaurus site
 website/yarn.lock
